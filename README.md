@@ -20,8 +20,7 @@ drwxrwxr-x  3 user user 4096 Apr 16 19:41 traefik
 drwxrwxr-x  4 user user 4096 Feb 17 19:41 wikijs
 drwxrwxr-x  4 user user 4096 Feb 24 13:43 wordpress-blog 
 
-$ cd gitlab
-$ ls -la
+$ ls -la gitlab
 drwxrwxr-x  6 user user      4096 Mär 23 10:57 .
 drwxrwxr-x 10 user user      4096 Apr 17 09:47 ..
 drwxrwxr-x  4 root root      4096 Dez 21 15:44 config
